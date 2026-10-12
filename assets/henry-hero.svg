@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Henry Ribeiro, desenvolvimento web e sistemas digitais">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080d1a"/><stop offset=".58" stop-color="#111c35"/><stop offset="1" stop-color="#0b1020"/></linearGradient>
+  <radialGradient id="glow" cx="77%" cy="50%" r="55%"><stop offset="0" stop-color="#117cb2" stop-opacity=".33"/><stop offset="1" stop-color="#117cb2" stop-opacity="0"/></radialGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2df7d7"/><stop offset="1" stop-color="#3f78ff"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M 36 0 L 0 0 0 36" fill="none" stroke="#91aeec" stroke-width=".7" opacity=".1"/></pattern>
+</defs>
+<rect x="0" y="0" width="1280" height="360" rx="18" fill="url(#bg)"/>
+<rect x="0" y="0" width="1280" height="360" rx="18" fill="url(#glow)"/>
+<rect x="0" y="0" width="1280" height="360" rx="18" fill="url(#grid)"/>
+<rect x="0" y="0" width="9" height="360" fill="url(#line)"/>
+<path d="M0 315H1280" stroke="#31415f" opacity=".65"/>
+<circle cx="1055" cy="178" r="131" stroke="#26d4da" stroke-width="1" fill="none" opacity=".26"/>
+<circle cx="1055" cy="178" r="100" stroke="#4481fb" stroke-width="1" fill="none" opacity=".35"/>
+<circle cx="1055" cy="178" r="72" stroke="#94a7da" stroke-width="1" fill="none" opacity=".3"/>
+<path d="M912 178h286M1055 35v286" stroke="#5ac6f5" stroke-width=".8" opacity=".2"/>
+<circle cx="1144" cy="76" r="5" fill="#2df7d7"/>
+<circle cx="941" cy="246" r="4" fill="#569dff"/>
+<rect x="975" y="102" width="162" height="148" rx="20" fill="#13213a" stroke="#355d84"/>
+<text x="1056" y="197" text-anchor="middle" font-size="64" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#e8f4ff">HR</text>
+<rect x="981" y="223" width="150" height="3" rx="2" fill="url(#line)"/>
+<text x="66" y="69" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="4" font-weight="700" fill="#3cf0d7">PORTFÓLIO DE DESENVOLVIMENTO</text>
+<text x="60" y="163" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" fill="#f4f8ff">Henry Ribeiro</text>
+<text x="65" y="210" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#c3d6eb">Produtos digitais, aplicações web e arquitetura de conteúdo.</text>
+<rect x="65" y="245" width="174" height="36" rx="9" fill="#1b3347" stroke="#2df7d7" stroke-opacity=".6"/>
+<text x="152" y="268" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#9af4e3">WEB &amp; SISTEMAS</text>
+<rect x="252" y="245" width="185" height="36" rx="9" fill="#1a2544" stroke="#637df0" stroke-opacity=".6"/>
+<text x="344" y="268" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#c2cdfd">PROJETOS REAIS</text>
+<text x="66" y="337" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8da3bd">GITHUB.COM/HENRYRIBEIROFISCALIZACAO-CTRL</text>
+</svg>

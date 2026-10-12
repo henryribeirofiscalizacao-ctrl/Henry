@@ -77,6 +77,23 @@ The list is derived from available project manifests and deployment documentatio
 - [RadarImob technical case](./radar-imob.md)
 - [E-books technical case](./mundo-dos-ebooks.md)
 
+## Education and completed studies
+
+My academic and professional learning background spans technology, humanities, education, science, law, and investigation.
+
+**Areas of completed education and training reported:**
+- Systems Analysis and Development
+- Information Technology Management
+- Databases
+- Sociology
+- Pedagogy
+- Biology
+- Law
+- Forensic Investigation and Criminal Forensics
+- Neuroscience
+
+*Program levels and institutions have not been specified individually; this section does not classify every item as a university degree.*
+
 ## Contact
 
 Open to technical conversations, collaborations, and new digital product opportunities.

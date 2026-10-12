@@ -175,6 +175,19 @@ My documentation focuses on real product scope, technologies identified in proje
 
 [**Read the complete English portfolio →**](./docs/english.md)
 
+## Formação acadêmica e capacitações concluídas
+
+Minha trajetória de formação reúne conhecimentos em tecnologia, ciências humanas, educação, ciências biológicas, direito e investigação. Essa base multidisciplinar contribui para uma visão mais ampla sobre desenvolvimento de produtos, pesquisa, análise de informações e necessidades de diferentes públicos.
+
+| Tecnologia e sistemas | Ciências humanas e educação | Ciências, direito e investigação |
+| :-- | :-- | :-- |
+| Análise e Desenvolvimento de Sistemas | Sociologia | Biologia |
+| Gestão da Tecnologia da Informação | Pedagogia | Direito |
+| Banco de Dados |  | Investigação Forense e Perícia Criminal |
+|  |  | Neurociência |
+
+**Situação informada:** formações e capacitações concluídas. Como não foram especificados os níveis e as instituições de cada formação, os itens não são classificados individualmente como graduação, pós-graduação ou curso livre.
+
 ## Contato, colaboração e demonstrações
 
 Tenho interesse em conversar sobre desenvolvimento web, aplicações de negócio, plataformas de conteúdo, segurança e evolução de sistemas.

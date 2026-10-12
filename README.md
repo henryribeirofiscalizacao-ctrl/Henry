@@ -8,6 +8,7 @@
 
 [![Projeto online](https://img.shields.io/badge/EXPLORAR-SEM%20FILTRO%20NOT%C3%8DCIAS-23cdb7?style=for-the-badge&labelColor=101a2b)](https://www.tvsemfiltronoticias.com.br)
 [![Estudo de caso](https://img.shields.io/badge/CASE%20T%C3%89CNICO-PORTAL%20EDITORIAL-4d79ef?style=for-the-badge&labelColor=101a2b)](./docs/sem-filtro-noticias.md)
+[![RadarImob](https://img.shields.io/badge/PROJETO-RADARIMOB-21b1a2?style=for-the-badge&labelColor=101a2b)](./docs/radar-imob.md)
 [![GitHub](https://img.shields.io/badge/GITHUB-PERFIL-2b3448?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henryribeirofiscalizacao-ctrl)
 
 </div>
@@ -35,6 +36,8 @@ Minha atuação combina desenvolvimento web e interesse contínuo por arquitetur
 <img alt="SQL" src="https://img.shields.io/badge/SQL_/_libSQL-12243a?style=flat-square">
 <img alt="Git" src="https://img.shields.io/badge/Git-12243a?style=flat-square&logo=git&logoColor=F05032">
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-12243a?style=flat-square&logo=github&logoColor=white">
+<img alt="Prisma" src="https://img.shields.io/badge/Prisma-12243a?style=flat-square&logo=prisma&logoColor=white">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-12243a?style=flat-square&logo=postgresql&logoColor=4169E1">
 </p>
 
 *Stack baseada nos manifestos de dependências dos projetos; cada aplicação utiliza apenas os componentes relevantes para seu escopo.*
@@ -86,6 +89,25 @@ Projeto orientado à organização de e-books, interfaces de leitura e administr
 </tr>
 </table>
 
+### 🏙️ RadarImob — plataforma SaaS para o setor imobiliário
+
+> **Produto digital · Gestão de imóveis · CRM · Presença online**
+
+Projeto voltado à operação de corretores de imóveis, reunindo organização de imóveis, clientes e oportunidades comerciais em uma plataforma web.
+
+**Frentes presentes no escopo do projeto:**
+- Cadastro e organização de carteiras de imóveis.
+- Gestão de clientes, preferências, leads e acompanhamento comercial.
+- Estrutura de painel para corretores e páginas públicas de imóveis.
+- Mecanismos de correspondência entre perfis de clientes e imóveis.
+- Arquitetura orientada a múltiplas contas, com separação de dados.
+
+**Tecnologias identificadas:** `Next.js` · `React` · `TypeScript` · `Prisma` · `PostgreSQL` · `Vercel`
+
+**Destaque de engenharia:** concepção de um SaaS com contextos privados por conta, fluxo comercial e interface pública. Os recursos citados descrevem o escopo técnico identificado; a disponibilidade operacional varia de acordo com a implantação.
+
+[📘 Ler o estudo de caso do RadarImob](./docs/radar-imob.md) · *Apresentação técnica mediante contato*
+
 ## Engenharia por trás das interfaces
 
 Uma boa experiência visual depende de decisões técnicas que o visitante nem sempre vê.
@@ -125,7 +147,7 @@ Meus estudos de caso apresentam **contexto, tecnologias e desafios reais**. Os r
 
 Estou aberto a trocar experiências com profissionais de desenvolvimento e segurança da informação e a conversar sobre novos projetos digitais.
 
-**[GitHub](https://github.com/henryribeirofiscalizacao-ctrl)** · **[Sem Filtro Notícias](https://www.tvsemfiltronoticias.com.br)** · **[Estudo de caso editorial](./docs/sem-filtro-noticias.md)**
+**[GitHub](https://github.com/henryribeirofiscalizacao-ctrl)** · **[Sem Filtro Notícias](https://www.tvsemfiltronoticias.com.br)** · **[RadarImob](./docs/radar-imob.md)** · **[Estudo de caso editorial](./docs/sem-filtro-noticias.md)**
 
 ---
 

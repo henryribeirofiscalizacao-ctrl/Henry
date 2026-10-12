@@ -52,6 +52,16 @@ Meus projetos incluem um ecossistema jornalístico regional, uma plataforma SaaS
 
 Conheça o [portfólio completo](https://github.com/henryribeirofiscalizacao-ctrl/Henry), as [práticas de engenharia](https://github.com/henryribeirofiscalizacao-ctrl/Henry/blob/main/docs/engenharia.md) e a [matriz de tecnologias](https://github.com/henryribeirofiscalizacao-ctrl/Henry/blob/main/docs/tecnologias.md).
 
+## Formação acadêmica e capacitações
+
+Tenho formações e capacitações concluídas em diferentes áreas, que complementam minha atuação em tecnologia e sistemas:
+
+- **Tecnologia:** Análise e Desenvolvimento de Sistemas, Gestão da Tecnologia da Informação e Banco de Dados.
+- **Ciências humanas e educação:** Sociologia e Pedagogia.
+- **Ciências, direito e investigação:** Biologia, Direito, Investigação Forense e Perícia Criminal e Neurociência.
+
+*Os níveis e as instituições de cada formação não estão discriminados nesta apresentação.*
+
 ## Contato e colaboração
 
 Aberto a conversas técnicas e oportunidades de desenvolvimento de plataformas web.

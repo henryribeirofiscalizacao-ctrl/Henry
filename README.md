@@ -1,31 +1,47 @@
 <div align="center">
 
-<img src="./assets/henry-hero.svg" alt="Henry Ribeiro — desenvolvimento web, sistemas digitais e projetos reais" width="100%">
+<img src="./assets/henry-hero.svg" width="100%" alt="Henry Ribeiro — Desenvolvimento web, arquitetura de sistemas e produtos digitais" />
 
-<br>
+<br />
 
-**Desenvolvimento de produtos digitais com identidade, propósito e engenharia.**
+**Web Development · SaaS Applications · Editorial Platforms · Digital Experiences**
 
-[![Projeto online](https://img.shields.io/badge/EXPLORAR-SEM%20FILTRO%20NOT%C3%8DCIAS-23cdb7?style=for-the-badge&labelColor=101a2b)](https://www.tvsemfiltronoticias.com.br)
-[![Estudo de caso](https://img.shields.io/badge/CASE%20T%C3%89CNICO-PORTAL%20EDITORIAL-4d79ef?style=for-the-badge&labelColor=101a2b)](./docs/sem-filtro-noticias.md)
-[![RadarImob](https://img.shields.io/badge/PROJETO-RADARIMOB-21b1a2?style=for-the-badge&labelColor=101a2b)](./docs/radar-imob.md)
-[![GitHub](https://img.shields.io/badge/GITHUB-PERFIL-2b3448?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henryribeirofiscalizacao-ctrl)
+Soluções digitais com foco em **identidade, arquitetura, usabilidade e evolução contínua**.
+
+[![Projeto publicado](https://img.shields.io/badge/EXPLORAR-SEM%20FILTRO%20NOT%C3%8DCIAS-23cdb7?style=for-the-badge&labelColor=101a2b)](https://www.tvsemfiltronoticias.com.br)
+[![RadarImob](https://img.shields.io/badge/CASE-RADARIMOB-4d79ef?style=for-the-badge&labelColor=101a2b)](./docs/radar-imob.md)
+[![Portfólio em inglês](https://img.shields.io/badge/READ-ENGLISH-334155?style=for-the-badge&labelColor=101a2b)](./docs/english.md)
+
+[**🇧🇷 Português**](#olá-sou-henry-ribeiro) &nbsp;•&nbsp; [**🇺🇸 English**](./docs/english.md) &nbsp;•&nbsp; [**Projetos**](#projetos-selecionados) &nbsp;•&nbsp; [**Engenharia**](#como-penso-em-engenharia) &nbsp;•&nbsp; [**Tecnologias verificadas**](./docs/tecnologias.md)
 
 </div>
 
 ---
 
-### Olá, sou Henry Ribeiro.
+## Olá, sou Henry Ribeiro.
 
-Trabalho no desenvolvimento e na evolução de **sites, portais de conteúdo e sistemas administrativos**. Gosto de criar interfaces marcantes, mas também de resolver o que acontece por trás delas: modelagem de informações, fluxos de publicação, integrações, organização do código e manutenção.
+Atuo na concepção, no desenvolvimento e na evolução de **portais de conteúdo, experiências de leitura e aplicações web para operações de negócio**. Meu trabalho envolve a experiência de quem utiliza o produto e os mecanismos que sustentam sua operação: regras de negócio, conteúdo, acesso a dados, administração e publicação.
 
-Minha atuação combina desenvolvimento web e interesse contínuo por arquitetura de software, bancos de dados e segurança da informação.
+Tenho especial interesse em **arquitetura de sistemas, bancos de dados, segurança da informação, ferramentas administrativas e integração de serviços**.
 
-> **Meu foco:** transformar necessidades reais em aplicações utilizáveis, consistentes e preparadas para evoluir.
+> **Meu objetivo:** transformar necessidades concretas em aplicações claras para o usuário e organizadas para evoluir.
 
-### Tecnologias presentes nos meus projetos
+Este GitHub reúne **estudos de caso de três projetos**, documentação de decisões técnicas e uma visão verificável das tecnologias presentes em cada ecossistema. Os repositórios de produção permanecem privados.
 
-<p>
+### Navegação rápida
+
+| Acesso | O que você encontra |
+| :-- | :-- |
+| **[📰 Sem Filtro Notícias](./docs/sem-filtro-noticias.md)** | Estudo técnico do portal jornalístico e da fábrica de portais |
+| **[🏙️ RadarImob](./docs/radar-imob.md)** | Estudo técnico da plataforma SaaS imobiliária |
+| **[📚 Mundo dos E-books](./docs/mundo-dos-ebooks.md)** | Experiência de leitura e ferramentas de gestão digital |
+| **[🏗️ Processo de engenharia](./docs/engenharia.md)** | Arquitetura conceitual, validação, segurança e manutenção |
+| **[🧩 Matriz de tecnologias](./docs/tecnologias.md)** | Tecnologias identificadas, projeto a projeto |
+| **[🌎 English portfolio](./docs/english.md)** | Apresentação técnica para leitores internacionais |
+
+## Tecnologias identificadas nos meus projetos
+
+<p align="center">
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-12243a?style=flat-square&logo=typescript&logoColor=3178C6">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-12243a?style=flat-square&logo=javascript&logoColor=F7DF1E">
 <img alt="React" src="https://img.shields.io/badge/React-12243a?style=flat-square&logo=react&logoColor=61DAFB">
@@ -38,119 +54,145 @@ Minha atuação combina desenvolvimento web e interesse contínuo por arquitetur
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-12243a?style=flat-square&logo=github&logoColor=white">
 <img alt="Prisma" src="https://img.shields.io/badge/Prisma-12243a?style=flat-square&logo=prisma&logoColor=white">
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-12243a?style=flat-square&logo=postgresql&logoColor=4169E1">
+<img alt="Drizzle ORM" src="https://img.shields.io/badge/Drizzle_ORM-12243a?style=flat-square">
+<img alt="PDF.js" src="https://img.shields.io/badge/PDF.js-12243a?style=flat-square">
 </p>
 
-*Stack baseada nos manifestos de dependências dos projetos; cada aplicação utiliza apenas os componentes relevantes para seu escopo.*
+<sub>Stack identificada nos manifestos e na documentação dos projetos. A presença de uma tecnologia não implica uso em todas as aplicações ou domínio individual uniforme de cada ferramenta. Consulte a <a href="./docs/tecnologias.md">matriz de evidências</a>.</sub>
 
 ## Projetos selecionados
 
-<table>
-<tr>
-<td width="52%" valign="top">
+### 📰 01 · Sem Filtro Notícias
 
-### 📰 Sem Filtro Notícias
+**Jornalismo regional · Gestão editorial · Fábrica de portais**
 
-**Portal jornalístico e ecossistema editorial**
+Plataforma voltada à publicação jornalística e à evolução de portais regionais com identidades próprias. O produto reúne experiência de leitura pública, navegação editorial e funcionalidades de administração de conteúdo.
 
-Plataforma voltada à publicação de notícias, administração de matérias e estruturação de portais regionais com identidade visual própria.
-
-**Áreas de trabalho**
-- Experiência editorial responsiva
-- Gerenciamento de conteúdo
-- Componentes e rotas de navegação
-- Evolução de múltiplos portais
-- Validação e manutenção do projeto
-
-**React · TypeScript · Next.js · Tailwind**
-
-[🌐 Ver projeto publicado](https://www.tvsemfiltronoticias.com.br) · [📘 Estudo de caso](./docs/sem-filtro-noticias.md)
-
-</td>
-<td width="48%" valign="top">
-
-### 📚 Mundo dos E-books
-
-**Plataforma de conteúdo e leitura digital**
-
-Projeto orientado à organização de e-books, interfaces de leitura e administração de materiais digitais.
-
-**Áreas de trabalho**
-- Experiência de leitura
-- Fluxos de catálogo e conteúdo
-- Recursos associados a documentos PDF
-- Ferramentas editoriais
-- Validação de funcionalidades
-
-**React · Vite · libSQL · Tiptap · PDF.js**
-
-[📘 Estudo de caso](./docs/mundo-dos-ebooks.md) · *Demonstração sob consulta*
-
-</td>
-</tr>
-</table>
-
-### 🏙️ RadarImob — plataforma SaaS para o setor imobiliário
-
-> **Produto digital · Gestão de imóveis · CRM · Presença online**
-
-Projeto voltado à operação de corretores de imóveis, reunindo organização de imóveis, clientes e oportunidades comerciais em uma plataforma web.
-
-**Frentes presentes no escopo do projeto:**
-- Cadastro e organização de carteiras de imóveis.
-- Gestão de clientes, preferências, leads e acompanhamento comercial.
-- Estrutura de painel para corretores e páginas públicas de imóveis.
-- Mecanismos de correspondência entre perfis de clientes e imóveis.
-- Arquitetura orientada a múltiplas contas, com separação de dados.
-
-**Tecnologias identificadas:** `Next.js` · `React` · `TypeScript` · `Prisma` · `PostgreSQL` · `Vercel`
-
-**Destaque de engenharia:** concepção de um SaaS com contextos privados por conta, fluxo comercial e interface pública. Os recursos citados descrevem o escopo técnico identificado; a disponibilidade operacional varia de acordo com a implantação.
-
-[📘 Ler o estudo de caso do RadarImob](./docs/radar-imob.md) · *Apresentação técnica mediante contato*
-
-## Engenharia por trás das interfaces
-
-Uma boa experiência visual depende de decisões técnicas que o visitante nem sempre vê.
-
-| Pilar | O que considero no desenvolvimento |
+| Perspectiva | Trabalho documentado |
 | :-- | :-- |
-| **Arquitetura** | Divisão de responsabilidades e organização do projeto |
-| **UX/UI** | Legibilidade, responsividade e consistência entre telas |
-| **Dados** | Estrutura e integração coerentes com o modelo de negócio |
-| **Qualidade** | Testes, typecheck, lint e validação de fluxos quando aplicáveis |
-| **Segurança** | Gestão de acesso, proteção de segredos e atenção a dados sensíveis |
-| **Evolução** | Versionamento, manutenção e mudanças incrementais |
+| **Produto** | Notícias, editorias, navegação e organização editorial |
+| **Interface** | Layouts responsivos, leitura em diferentes telas, identidade de portais |
+| **Administração** | Gestão de conteúdo e configurações |
+| **Engenharia** | Organização de aplicações, validação e evolução de múltiplos portais |
+| **Stack verificada** | React, TypeScript, Next.js, Tailwind CSS e Node.js |
 
-### Do problema à solução
+**Desafio central:** manter a consistência da experiência editorial sem misturar identidade e configurações de diferentes portais.
+
+[**🌐 Acessar o portal público**](https://www.tvsemfiltronoticias.com.br) &nbsp;·&nbsp; [**📘 Ler o estudo de caso**](./docs/sem-filtro-noticias.md)
+
+---
+
+### 🏙️ 02 · RadarImob
+
+**SaaS imobiliário · Carteiras de imóveis · Relacionamento comercial**
+
+Projeto de aplicação web para corretores, concebido para organizar imóveis, clientes, leads e processos de atendimento. O escopo técnico inclui painéis privados, presença pública de imóveis e recursos de suporte à jornada comercial.
+
+| Perspectiva | Trabalho documentado |
+| :-- | :-- |
+| **Produto** | Gestão de imóveis, clientes, oportunidades e atendimento |
+| **Dados** | Modelagem relacional e contexto de múltiplas contas |
+| **Interfaces** | Painéis de operação e experiências públicas de imóveis |
+| **Arquitetura** | Separação de contextos e responsabilidades de acesso |
+| **Stack verificada** | Next.js, React, TypeScript, Prisma e PostgreSQL |
+
+**Desafio central:** conciliar dados de diferentes contas, experiência pública e fluxos privados de operação em um produto SaaS.
+
+[**📘 Ler o estudo de caso**](./docs/radar-imob.md) &nbsp;·&nbsp; *Apresentação técnica sob consulta*
+
+*O estudo apresenta o escopo encontrado na documentação e no deploy; não atesta a disponibilidade operacional de todas as funções.*
+
+---
+
+### 📚 03 · Mundo dos E-books
+
+**Leitura digital · Conteúdo · Administração**
+
+Projeto web orientado à experiência de leitura e organização de conteúdo digital, com ferramentas para administração e recursos relacionados ao tratamento e à apresentação de documentos.
+
+| Perspectiva | Trabalho documentado |
+| :-- | :-- |
+| **Produto** | Catálogo, materiais digitais e experiência de leitura |
+| **Interface** | Navegação e leitura em diferentes dispositivos |
+| **Conteúdo** | Editor e ferramentas associadas a e-books |
+| **Dados** | Persistência e organização das informações da aplicação |
+| **Stack verificada** | React, Vite, libSQL, Drizzle ORM, Tiptap e PDF.js |
+
+**Desafio central:** criar uma experiência de leitura centrada no conteúdo, mantendo os fluxos de gestão separados dos fluxos do leitor.
+
+[**📘 Ler o estudo de caso**](./docs/mundo-dos-ebooks.md) &nbsp;·&nbsp; *Repositório de produção privado*
+
+## Como penso em engenharia
+
+Um projeto bem apresentado precisa também ter um processo técnico compreensível.
 
 ```mermaid
 flowchart LR
- A["Entender o problema"] --> B["Definir a arquitetura"]
- B --> C["Construir a experiência"]
- C --> D["Implementar e integrar"]
- D --> E["Testar e validar"]
- E --> F["Publicar e evoluir"]
- F -. "Feedback" .-> A
+    A["Problema e requisitos"] --> B["Arquitetura e dados"]
+    B --> C["Experiência e interfaces"]
+    C --> D["Implementação"]
+    D --> E["Testes e validação"]
+    E --> F["Publicação e evolução"]
+    F -. "Feedback" .-> A
 ```
 
-*Fluxo geral de trabalho, não um diagrama da infraestrutura interna dos sistemas.*
+| Pilar | Princípio aplicado |
+| :-- | :-- |
+| **Arquitetura** | Limites claros entre interface, dados, serviços e regras de negócio |
+| **UX/UI** | Navegação, legibilidade, contraste e comportamento em diferentes telas |
+| **Dados** | Modelagem coerente e atenção ao isolamento de informações |
+| **Segurança** | Autenticação, autorização, proteção de segredos e validação de entradas |
+| **Qualidade** | Revisões e verificações técnicas proporcionais ao projeto |
+| **Manutenção** | Versionamento e melhorias incrementais que permitam rastrear alterações |
 
-## Transparência técnica e confidencialidade
+O diagrama representa o **fluxo conceitual de desenvolvimento**, não a infraestrutura privada de produção.
 
-Meus estudos de caso apresentam **contexto, tecnologias e desafios reais**. Os repositórios de produção permanecem privados para resguardar implementações, configurações e informações de projeto.
+[**Explorar meu processo de engenharia →**](./docs/engenharia.md)
 
-**O que está disponível aqui:** portfólio público, tecnologias verificadas, estudos de caso e acesso aos projetos publicados.
+## Visão técnica dos projetos
 
-**O que não está disponível:** credenciais, dados internos, código-fonte proprietário ou acesso administrativo.
+| Projeto | Aplicação principal | Persistência / dados | Validação |
+| :-- | :-- | :-- | :-- |
+| **Sem Filtro Notícias** | Ecossistema React/Next.js e ferramentas Node.js | Integrações SQL/libSQL identificadas | Scripts de build, lint, typecheck e teste |
+| **RadarImob** | Next.js, React, TypeScript | Prisma e PostgreSQL/Neon | Scripts de teste e validação identificados |
+| **Mundo dos E-books** | React e Vite | libSQL e Drizzle ORM | Testes de aplicação e ferramentas de verificação |
 
-## Vamos conversar sobre tecnologia?
+*Tabela descritiva baseada em arquivos de configuração e documentação consultados. Scripts presentes não equivalem a auditoria independente nem garantem cobertura integral de testes.*
 
-Estou aberto a trocar experiências com profissionais de desenvolvimento e segurança da informação e a conversar sobre novos projetos digitais.
+## Princípios e evolução
 
-**[GitHub](https://github.com/henryribeirofiscalizacao-ctrl)** · **[Sem Filtro Notícias](https://www.tvsemfiltronoticias.com.br)** · **[RadarImob](./docs/radar-imob.md)** · **[Estudo de caso editorial](./docs/sem-filtro-noticias.md)**
+- **A experiência precisa servir ao negócio:** interface visual e fluxo operacional devem trabalhar juntos.
+- **Cada sistema tem seu próprio contexto:** não existe arquitetura única para um portal editorial, um SaaS imobiliário e uma plataforma de leitura.
+- **Identidade importa:** páginas e painéis devem refletir o produto a que pertencem.
+- **Segurança faz parte do desenho:** dados, permissões e credenciais não devem ficar expostos em um portfólio público.
+- **Evolução exige disciplina:** mudanças devem ser rastreáveis, revisáveis e, quando necessário, reversíveis.
+
+## English summary
+
+I develop and evolve **web products, digital publishing experiences, and business-oriented applications**. My selected work covers a regional news platform, a real estate SaaS product, and a digital reading platform.
+
+My documentation focuses on real product scope, technologies identified in project files, engineering challenges, and transparent technical presentation. Production code and sensitive configurations remain private.
+
+[**Read the complete English portfolio →**](./docs/english.md)
+
+## Contato, colaboração e demonstrações
+
+Tenho interesse em conversar sobre desenvolvimento web, aplicações de negócio, plataformas de conteúdo, segurança e evolução de sistemas.
+
+**[Perfil GitHub](https://github.com/henryribeirofiscalizacao-ctrl)** · **[Sem Filtro Notícias](https://www.tvsemfiltronoticias.com.br)** · **[Estudos de caso](#projetos-selecionados)** · **[README preparado para o perfil](./PROFILE-README.md)**
+
+### Transparência e confidencialidade
+
+Este é um portfólio de apresentação. **Repositórios de produção, código proprietário, credenciais, dados de clientes e configurações internas permanecem privados.**
+
+A documentação descreve funcionalidades e tecnologias identificadas, sem afirmar que todas as capacidades previstas estejam disponíveis ou que todos os sistemas tenham passado por auditorias independentes.
 
 ---
 
 <div align="center">
-<sub>Henry Ribeiro · Desenvolvimento web e sistemas digitais</sub>
+
+<sub><strong>Henry Ribeiro</strong> · Desenvolvimento web, sistemas digitais e engenharia aplicada</sub>
+
+<sub>Projetos reais · Documentação técnica · Código de produção preservado</sub>
+
 </div>

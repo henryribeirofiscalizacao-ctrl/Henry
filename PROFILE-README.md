@@ -1,70 +1,97 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/henryribeirofiscalizacao-ctrl/Henry/main/assets/henry-hero.svg" width="100%" alt="Henry Ribeiro — produtos digitais, sistemas e arquitetura web" />
+<img src="https://raw.githubusercontent.com/henryribeirofiscalizacao-ctrl/Henry/main/assets/henry-hero.svg" width="100%" alt="Henry Ribeiro | Desenvolvimento web, SaaS e plataformas de conteúdo" />
 
-### Desenvolvimento web · Aplicações SaaS · Sistemas de gestão · Portais de conteúdo
+### Desenvolvimento web · Aplicações SaaS · Plataformas digitais
 
-**Projetos reais, engenharia aplicada e evolução contínua.**
+**Transformando ideias em produtos digitais com identidade, organização e possibilidade de evolução.**
 
-[![Portfolio](https://img.shields.io/badge/PORTF%C3%93LIO-VER%20PROJETOS-22c6ae?style=for-the-badge&labelColor=0f192b)](https://github.com/henryribeirofiscalizacao-ctrl/Henry)
-[![Sem Filtro](https://img.shields.io/badge/DEMONSTRA%C3%87%C3%83O-SEM%20FILTRO-4279ee?style=for-the-badge&labelColor=0f192b)](https://www.tvsemfiltronoticias.com.br)
-[![Leninha Digital](https://img.shields.io/badge/DEMONSTRA%C3%87%C3%83O-LENINHA%20DIGITAL-9866d2?style=for-the-badge&labelColor=0f192b)](https://www.leninhadigital.com.br)
-[![English](https://img.shields.io/badge/READ%20IN-ENGLISH-334155?style=for-the-badge&labelColor=0f192b)](https://github.com/henryribeirofiscalizacao-ctrl/Henry/blob/main/docs/english.md)
+[![Portfólio](https://img.shields.io/badge/EXPLORAR-PORTF%C3%93LIO-26c6aa?style=for-the-badge&labelColor=122038)](https://github.com/henryribeirofiscalizacao-ctrl/Henry)
+[![Sem Filtro](https://img.shields.io/badge/ACESSAR-SEM%20FILTRO-3973e6?style=for-the-badge&labelColor=122038)](https://www.tvsemfiltronoticias.com.br)
+[![Leninha Digital](https://img.shields.io/badge/ACESSAR-LENINHA%20DIGITAL-a56dd6?style=for-the-badge&labelColor=122038)](https://www.leninhadigital.com.br)
+
+**[Projetos](#projetos-em-destaque)** · **[Tecnologias](#tecnologias)** · **[Engenharia](#como-estruturo-os-projetos)** · **[Documentação](https://github.com/henryribeirofiscalizacao-ctrl/Henry/blob/main/docs/engenharia.md)** · **[English](https://github.com/henryribeirofiscalizacao-ctrl/Henry/blob/main/docs/english.md)**
 
 </div>
 
 ---
 
-## Olá! Sou Henry Ribeiro.
+## Olá, sou Henry Ribeiro 👋
 
-Desenvolvo e evoluo soluções web, com foco em **interfaces responsivas, administração de conteúdo, aplicações de negócio e arquitetura de dados**.
+Atuo na concepção e evolução de **aplicações web, sistemas de gestão e plataformas de conteúdo**. Tenho interesse em unir experiências de uso bem resolvidas a uma base técnica organizada: interfaces, regras de negócio, dados, administração e publicação.
 
-Meus projetos incluem um ecossistema jornalístico regional, uma plataforma SaaS imobiliária e uma experiência de leitura digital. Interesso-me especialmente por desenvolvimento web, segurança da informação, organização de aplicações e integrações.
-
-> Busco construir soluções claras para quem usa, compreensíveis para quem mantém e consistentes para quem administra.
+Neste perfil você encontra **projetos, demonstrações públicas e estudos de caso**. Meu foco é entregar experiências úteis e manter documentação que permita compreender e evoluir o produto.
 
 ## Projetos em destaque
 
 ### 📰 Sem Filtro Notícias
-Portal editorial e ecossistema de publicações regionais. **Tecnologias identificadas:** React, Next.js, TypeScript e Tailwind.
+**Portal jornalístico regional e ecossistema de publicações.**
 
-[🌐 Acessar site](https://www.tvsemfiltronoticias.com.br) · [📘 Estudo de caso](https://github.com/henryribeirofiscalizacao-ctrl/Henry/blob/main/docs/sem-filtro-noticias.md)
+Experiência editorial com notícias, editorias, administração de conteúdo e identidades visuais específicas para portais regionais.
+
+**Tecnologias identificadas:** React · Next.js · TypeScript · Tailwind CSS.
+
+[🌐 Ver site público](https://www.tvsemfiltronoticias.com.br) · [📘 Estudo de caso](https://github.com/henryribeirofiscalizacao-ctrl/Henry/blob/main/docs/sem-filtro-noticias.md)
+
+---
+
+### 📚 Leninha Digital · Mundo dos E-books
+**Plataforma de conteúdo e experiência de leitura digital.**
+
+Apresentação de materiais digitais, interfaces de leitura e ferramentas de administração. **Leninha Digital é a apresentação pública do projeto Mundo dos E-books**, não um sistema adicional.
+
+**Tecnologias identificadas:** React · Vite · libSQL · Drizzle ORM · Tiptap · PDF.js.
+
+[🌐 Ver site público](https://www.leninhadigital.com.br) · [📘 Estudo de caso](https://github.com/henryribeirofiscalizacao-ctrl/Henry/blob/main/docs/mundo-dos-ebooks.md) · [🔎 Apresentação pública](https://github.com/henryribeirofiscalizacao-ctrl/Henry/blob/main/docs/leninha-digital.md)
+
+---
 
 ### 🏙️ RadarImob
-SaaS imobiliário voltado à organização de imóveis, clientes e oportunidades. **Tecnologias identificadas:** Next.js, React, Prisma e PostgreSQL.
+**Projeto de plataforma SaaS para o setor imobiliário.**
+
+Organização de imóveis, clientes e oportunidades comerciais, com atenção a modelagem de dados e separação entre áreas públicas e privadas.
+
+**Tecnologias identificadas:** Next.js · React · TypeScript · Prisma · PostgreSQL.
 
 [📘 Estudo de caso](https://github.com/henryribeirofiscalizacao-ctrl/Henry/blob/main/docs/radar-imob.md)
 
-### 📚 Leninha Digital / Mundo dos E-books
-Projeto de leitura digital com catálogo e ferramentas administrativas. A **Leninha Digital é a apresentação pública deste mesmo projeto**, não uma aplicação independente. **Tecnologias identificadas:** React, Vite, libSQL, Tiptap e PDF.js.
+*O RadarImob está apresentado aqui por sua documentação técnica; o estudo de caso não certifica a operação de todas as funcionalidades.*
 
-[🌐 Acessar site](https://www.leninhadigital.com.br) · [📘 Estudo de caso](https://github.com/henryribeirofiscalizacao-ctrl/Henry/blob/main/docs/mundo-dos-ebooks.md)
+## Tecnologias
 
-*As tecnologias citadas foram identificadas nos projetos. O funcionamento de cada recurso deve ser validado separadamente da publicação.*
+<div align="left">
 
-## Tecnologias presentes no ecossistema dos projetos
+![TypeScript](https://img.shields.io/badge/TypeScript-19283e?style=flat-square&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-19283e?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-19283e?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-19283e?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-19283e?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Vite](https://img.shields.io/badge/Vite-19283e?style=flat-square&logo=vite&logoColor=646CFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-19283e?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Prisma](https://img.shields.io/badge/Prisma-19283e?style=flat-square&logo=prisma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-19283e?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-19283e?style=flat-square&logo=github&logoColor=white)
 
-<p>
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-12243a?logo=typescript&logoColor=3178C6">
-<img alt="React" src="https://img.shields.io/badge/React-12243a?logo=react&logoColor=61DAFB">
-<img alt="Next.js" src="https://img.shields.io/badge/Next.js-12243a?logo=nextdotjs&logoColor=white">
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-12243a?logo=nodedotjs&logoColor=5FA04E">
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-12243a?logo=postgresql&logoColor=4169E1">
-<img alt="Prisma" src="https://img.shields.io/badge/Prisma-12243a?logo=prisma&logoColor=white">
-<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-12243a?logo=tailwindcss&logoColor=06B6D4">
-<img alt="Vite" src="https://img.shields.io/badge/Vite-12243a?logo=vite&logoColor=646CFF">
-<img alt="Git" src="https://img.shields.io/badge/Git-12243a?logo=git&logoColor=F05032">
-</p>
+</div>
 
-## Princípios de desenvolvimento
+*Tecnologias identificadas em arquivos e documentação dos projetos. A lista não significa que todas sejam utilizadas em cada aplicação. [Matriz de tecnologias por projeto →](https://github.com/henryribeirofiscalizacao-ctrl/Henry/blob/main/docs/tecnologias.md)*
 
-**Experiência responsiva** · **Isolamento de dados** · **Código versionado** · **Validação de mudanças** · **Controle de acesso** · **Design com identidade própria** · **Melhoria contínua**
+## Como estruturo os projetos
 
-Conheça o [portfólio completo](https://github.com/henryribeirofiscalizacao-ctrl/Henry), as [práticas de engenharia](https://github.com/henryribeirofiscalizacao-ctrl/Henry/blob/main/docs/engenharia.md) e a [matriz de tecnologias](https://github.com/henryribeirofiscalizacao-ctrl/Henry/blob/main/docs/tecnologias.md).
+**Entendimento do problema → arquitetura e dados → experiência visual → implementação → validação → publicação e manutenção.**
 
-## Formação acadêmica e capacitações
+- **Produto:** prioridades, necessidades reais e evolução por etapas.
+- **Interface:** clareza, responsividade e identidade visual.
+- **Engenharia:** organização do código e integração entre serviços.
+- **Segurança:** separação de acessos, proteção de credenciais e atenção aos dados.
+- **Qualidade:** verificação dos fluxos e registro de decisões e alterações.
 
-Tenho formações e capacitações concluídas em diferentes áreas, que complementam minha atuação em tecnologia e sistemas:
+[📐 Processo de engenharia](https://github.com/henryribeirofiscalizacao-ctrl/Henry/blob/main/docs/engenharia.md) · [🧩 Matriz técnica](https://github.com/henryribeirofiscalizacao-ctrl/Henry/blob/main/docs/tecnologias.md) · [🌎 English portfolio](https://github.com/henryribeirofiscalizacao-ctrl/Henry/blob/main/docs/english.md)
+
+<details>
+<summary><strong>Formação acadêmica e capacitações</strong></summary>
+
+Minha formação e capacitações concluídas abrangem diferentes áreas, que complementam a visão multidisciplinar aplicada aos projetos:
 
 - **Tecnologia:** Análise e Desenvolvimento de Sistemas, Gestão da Tecnologia da Informação e Banco de Dados.
 - **Ciências humanas e educação:** Sociologia e Pedagogia.
@@ -72,12 +99,16 @@ Tenho formações e capacitações concluídas em diferentes áreas, que complem
 
 *Os níveis e as instituições de cada formação não estão discriminados nesta apresentação.*
 
+</details>
+
 ## Contato e colaboração
 
-Aberto a conversas técnicas e oportunidades de desenvolvimento de plataformas web.
+Aberto a troca de experiências, parcerias e conversas sobre aplicações web, produtos digitais e evolução de sistemas.
 
-[GitHub](https://github.com/henryribeirofiscalizacao-ctrl) · [Portfólio](https://github.com/henryribeirofiscalizacao-ctrl/Henry) · [Sem Filtro Notícias](https://www.tvsemfiltronoticias.com.br)
+**[GitHub](https://github.com/henryribeirofiscalizacao-ctrl)** · **[Portfólio completo](https://github.com/henryribeirofiscalizacao-ctrl/Henry)** · **[Sem Filtro Notícias](https://www.tvsemfiltronoticias.com.br)** · **[Leninha Digital](https://www.leninhadigital.com.br)**
 
 ---
 
-<div align="center"><sub>Portfólio público de apresentação. Código de produção, dados internos e credenciais permanecem privados.</sub></div>
+<div align="center">
+  <sub>Apresentação pública de projetos e estudos técnicos. O código de produção, dados privados e configurações sensíveis permanecem protegidos. Links públicos e documentação não substituem validação funcional independente.</sub>
+</div>

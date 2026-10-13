@@ -8,6 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTF%C3%93LIO-VER%20PROJETOS-22c6ae?style=for-the-badge&labelColor=0f192b)](https://github.com/henryribeirofiscalizacao-ctrl/Henry)
 [![Sem Filtro](https://img.shields.io/badge/DEMONSTRA%C3%87%C3%83O-SEM%20FILTRO-4279ee?style=for-the-badge&labelColor=0f192b)](https://www.tvsemfiltronoticias.com.br)
+[![Leninha Digital](https://img.shields.io/badge/DEMONSTRA%C3%87%C3%83O-LENINHA%20DIGITAL-9866d2?style=for-the-badge&labelColor=0f192b)](https://www.leninhadigital.com.br)
 [![English](https://img.shields.io/badge/READ%20IN-ENGLISH-334155?style=for-the-badge&labelColor=0f192b)](https://github.com/henryribeirofiscalizacao-ctrl/Henry/blob/main/docs/english.md)
 
 </div>
@@ -24,13 +25,22 @@ Meus projetos incluem um ecossistema jornalístico regional, uma plataforma SaaS
 
 ## Projetos em destaque
 
-| Projeto | Propósito | Tecnologia identificada | Conhecer |
-| :-- | :-- | :-- | :-- |
-| **📰 Sem Filtro Notícias** | Portal editorial, publicações regionais e gestão de conteúdo | React, Next.js, TypeScript, Tailwind | [Site](https://www.tvsemfiltronoticias.com.br) · [Case](https://github.com/henryribeirofiscalizacao-ctrl/Henry/blob/main/docs/sem-filtro-noticias.md) |
-| **🏙️ RadarImob** | SaaS imobiliário: imóveis, clientes, leads e fluxos comerciais | Next.js, React, Prisma, PostgreSQL | [Case](https://github.com/henryribeirofiscalizacao-ctrl/Henry/blob/main/docs/radar-imob.md) |
-| **📚 Mundo dos E-books** | Conteúdo digital, interfaces de leitura e área administrativa | React, Vite, libSQL, Tiptap, PDF.js | [Case](https://github.com/henryribeirofiscalizacao-ctrl/Henry/blob/main/docs/mundo-dos-ebooks.md) |
+### 📰 Sem Filtro Notícias
+Portal editorial e ecossistema de publicações regionais. **Tecnologias identificadas:** React, Next.js, TypeScript e Tailwind.
 
-*Os estudos de caso apresentam o escopo documentado dos projetos. A disponibilidade operacional de cada recurso depende da respectiva versão.*
+[🌐 Acessar site](https://www.tvsemfiltronoticias.com.br) · [📘 Estudo de caso](https://github.com/henryribeirofiscalizacao-ctrl/Henry/blob/main/docs/sem-filtro-noticias.md)
+
+### 🏙️ RadarImob
+SaaS imobiliário voltado à organização de imóveis, clientes e oportunidades. **Tecnologias identificadas:** Next.js, React, Prisma e PostgreSQL.
+
+[📘 Estudo de caso](https://github.com/henryribeirofiscalizacao-ctrl/Henry/blob/main/docs/radar-imob.md)
+
+### 📚 Leninha Digital / Mundo dos E-books
+Projeto de leitura digital com catálogo e ferramentas administrativas. A **Leninha Digital é a apresentação pública deste mesmo projeto**, não uma aplicação independente. **Tecnologias identificadas:** React, Vite, libSQL, Tiptap e PDF.js.
+
+[🌐 Acessar site](https://www.leninhadigital.com.br) · [📘 Estudo de caso](https://github.com/henryribeirofiscalizacao-ctrl/Henry/blob/main/docs/mundo-dos-ebooks.md)
+
+*As tecnologias citadas foram identificadas nos projetos. O funcionamento de cada recurso deve ser validado separadamente da publicação.*
 
 ## Tecnologias presentes no ecossistema dos projetos
 

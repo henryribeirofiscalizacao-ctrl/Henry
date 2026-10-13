@@ -10,6 +10,7 @@ Soluções digitais com foco em **identidade, arquitetura, usabilidade e evoluç
 
 [![Projeto publicado](https://img.shields.io/badge/EXPLORAR-SEM%20FILTRO%20NOT%C3%8DCIAS-23cdb7?style=for-the-badge&labelColor=101a2b)](https://www.tvsemfiltronoticias.com.br)
 [![RadarImob](https://img.shields.io/badge/CASE-RADARIMOB-4d79ef?style=for-the-badge&labelColor=101a2b)](./docs/radar-imob.md)
+[![Leninha Digital](https://img.shields.io/badge/ACESSAR-LENINHA%20DIGITAL-9b64dc?style=for-the-badge&labelColor=101a2b)](https://www.leninhadigital.com.br)
 [![Portfólio em inglês](https://img.shields.io/badge/READ-ENGLISH-334155?style=for-the-badge&labelColor=101a2b)](./docs/english.md)
 
 [**🇧🇷 Português**](#olá-sou-henry-ribeiro) &nbsp;•&nbsp; [**🇺🇸 English**](./docs/english.md) &nbsp;•&nbsp; [**Projetos**](#projetos-selecionados) &nbsp;•&nbsp; [**Engenharia**](#como-penso-em-engenharia) &nbsp;•&nbsp; [**Tecnologias verificadas**](./docs/tecnologias.md)
@@ -28,16 +29,14 @@ Tenho especial interesse em **arquitetura de sistemas, bancos de dados, seguran�
 
 Este GitHub reúne **estudos de caso de três projetos**, documentação de decisões técnicas e uma visão verificável das tecnologias presentes em cada ecossistema. Os repositórios de produção permanecem privados.
 
-### Navegação rápida
+### Navegação rápida — também no celular
 
-| Acesso | O que você encontra |
-| :-- | :-- |
-| **[📰 Sem Filtro Notícias](./docs/sem-filtro-noticias.md)** | Estudo técnico do portal jornalístico e da fábrica de portais |
-| **[🏙️ RadarImob](./docs/radar-imob.md)** | Estudo técnico da plataforma SaaS imobiliária |
-| **[📚 Mundo dos E-books](./docs/mundo-dos-ebooks.md)** | Experiência de leitura e ferramentas de gestão digital |
-| **[🏗️ Processo de engenharia](./docs/engenharia.md)** | Arquitetura conceitual, validação, segurança e manutenção |
-| **[🧩 Matriz de tecnologias](./docs/tecnologias.md)** | Tecnologias identificadas, projeto a projeto |
-| **[🌎 English portfolio](./docs/english.md)** | Apresentação técnica para leitores internacionais |
+- **[📰 Sem Filtro Notícias](./docs/sem-filtro-noticias.md)** — portal jornalístico e fábrica de portais. [Acessar site](https://www.tvsemfiltronoticias.com.br).
+- **[🏙️ RadarImob](./docs/radar-imob.md)** — plataforma SaaS imobiliária e estudo de arquitetura.
+- **[📚 Leninha Digital · Mundo dos E-books](./docs/leninha-digital.md)** — experiência pública de leitura. [Acessar site](https://www.leninhadigital.com.br).
+- **[🏗️ Engenharia](./docs/engenharia.md)** — processo, qualidade e segurança.
+- **[🧩 Tecnologias](./docs/tecnologias.md)** — matriz técnica por projeto.
+- **[🌎 English](./docs/english.md)** — apresentação em inglês.
 
 ## Tecnologias identificadas nos meus projetos
 
@@ -104,7 +103,7 @@ Projeto de aplicação web para corretores, concebido para organizar imóveis, c
 
 ---
 
-### 📚 03 · Mundo dos E-books
+### 📚 03 · Leninha Digital / Mundo dos E-books
 
 **Leitura digital · Conteúdo · Administração**
 
@@ -120,7 +119,9 @@ Projeto web orientado à experiência de leitura e organização de conteúdo di
 
 **Desafio central:** criar uma experiência de leitura centrada no conteúdo, mantendo os fluxos de gestão separados dos fluxos do leitor.
 
-[**📘 Ler o estudo de caso**](./docs/mundo-dos-ebooks.md) &nbsp;·&nbsp; *Repositório de produção privado*
+[**🌐 Acessar a Leninha Digital**](https://www.leninhadigital.com.br) &nbsp;·&nbsp; [**📘 Ler o estudo de caso**](./docs/mundo-dos-ebooks.md) &nbsp;·&nbsp; [**📱 Conhecer a versão pública**](./docs/leninha-digital.md)
+
+*O site Leninha Digital é a apresentação pública do projeto Mundo dos E-books; não se trata de um quarto projeto independente. O repositório de produção permanece privado.*
 
 ## Como penso em engenharia
 
